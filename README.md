@@ -11,13 +11,12 @@ I starting to implement web designs through coding languages like HTML, CSS, and
 * Building apps in jQuery, Sass, BEM, Node/Express/MongoDB
 * Writing efficient code and communicate with APIs
 
+### Technology Stacks 
 
-### Technology Stacks
+* Language: JavaScript 
+* DBMS: MongoDB, MySQL 
+<img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=AtanasVihrogonov&hide=issues&count_private=true&icon_color=0366d6&title_color=000000&bg_color=ffffff&show_icons=true)"/>
 
-* Language: JavaScript
-* DBMS: MongoDB, MySQL
-
-<img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=AtanasVihrogonov&hide=issues&count_private=true&icon_color=871486&title_color=000000&bg_color=ffffff&show_icons=true)"/>
 
 
  
