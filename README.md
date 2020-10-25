@@ -15,7 +15,9 @@ I starting to implement web designs through coding languages like HTML, CSS, and
 
 * Language: JavaScript 
 * DBMS: MongoDB, MySQL 
-<img title="My status" heigth="320" width="420" src="https://github-readme-stats.vercel.app/api?username=AtanasVihrogonov&hide=issues&count_private=true&icon_color=0366d6&title_color=0366d6&bg_color=ffffff&show_icons=true)"/>
+
+<img align="left" alt="AtanasVihrogonov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AtanasVihrogonov&show_icons=true" />    &nbsp;
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasVihrogonov)](https://github.com/AtanasVihrogonov/github-readme-stats) 
 
 
 
