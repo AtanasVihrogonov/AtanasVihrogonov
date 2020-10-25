@@ -1,3 +1,9 @@
+<a href="https://github.com/AtanasVihrogonov">
+  <img src="https://img.shields.io/github/followers/AtanasVihrogonov">
+</a>
+<a href="https://github.com/AtanasVihrogonov">
+   <img src="https://komarev.com/ghpvc/?username=AtanasVihrogonov">
+</a>
 
 ## About
 Hi there, I am Atanas Vihrogonov, a self-taught Front-End Developer based in the United Kingdom. 
@@ -16,8 +22,14 @@ I starting to implement web designs through coding languages like HTML, CSS, and
 * Language: JavaScript 
 * DBMS: MongoDB, MySQL 
 
-<img align="left" alt="AtanasVihrogonov's Github Stats" src="https://github-readme-stats.vercel.app/api?username=AtanasVihrogonov&show_icons=true" />    &nbsp;
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasVihrogonov)](https://github.com/AtanasVihrogonov/github-readme-stats) 
+<a href="https://github.com/AtanasVihrogonov">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtanasVihrogonov&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasVihrogonov&layout=compact&title_color=2257EA&bg_color=f7f7f7" />
+</a>
+
+
+
+
 
 
 
