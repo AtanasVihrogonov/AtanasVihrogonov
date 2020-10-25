@@ -22,6 +22,8 @@ I starting to implement web designs through coding languages like HTML, CSS, and
 * Language: JavaScript 
 * DBMS: MongoDB, MySQL 
 
+<br>
+
 <a href="https://github.com/AtanasVihrogonov">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtanasVihrogonov&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasVihrogonov&layout=compact&title_color=2257EA&bg_color=f7f7f7" />
