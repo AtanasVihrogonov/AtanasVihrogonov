@@ -1,7 +1,4 @@
 <a href="https://github.com/AtanasVihrogonov">
-  <img src="https://img.shields.io/github/followers/AtanasVihrogonov">
-</a>
-<a href="https://github.com/AtanasVihrogonov">
    <img src="https://komarev.com/ghpvc/?username=AtanasVihrogonov">
 </a>
 
