@@ -1,6 +1,3 @@
-<a href="https://github.com/AtanasVihrogonov">
-   <img src="https://komarev.com/ghpvc/?username=AtanasVihrogonov">
-</a>
 <img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov"/>
 
 ## About
