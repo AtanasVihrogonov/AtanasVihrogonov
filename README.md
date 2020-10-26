@@ -25,8 +25,8 @@ I starting to implement web designs through coding languages like HTML, CSS, and
 <br>
 
 <a href="https://github.com/AtanasVihrogonov">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AtanasVihrogonov&show_icons=true&title_color=2257EA&icon_color=2257EA&bg_color=f7f7f7" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasVihrogonov&layout=compact&title_color=2257EA&bg_color=f7f7f7" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AtanasVihrogonov&show_icons=true&title_color=c1c7cb&icon_color=cfd3d6&text_color=374140&bg_color=e9ebec" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasVihrogonov&layout=compact&title_color=c1c7cb&icon_color=cfd3d6&text_color=374140&bg_color=e9ebec" />
 </a>
 
 
