@@ -1,6 +1,7 @@
 <a href="https://github.com/AtanasVihrogonov">
    <img src="https://komarev.com/ghpvc/?username=AtanasVihrogonov">
 </a>
+<img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov"/>
 
 ## About
 Hi there, I am Atanas Vihrogonov, a self-taught Front-End Developer based in the United Kingdom. 
