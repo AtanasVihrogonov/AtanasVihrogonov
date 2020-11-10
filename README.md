@@ -7,15 +7,15 @@ I starting to implement web designs through coding languages like HTML, CSS, and
 
 ### Quick highlighs
 
-* Creating websites/apps using best standard HTML5/CSS3
-* Experience in JavaScript and Node.js
-* Building apps in jQuery, Sass, BEM, Node/Express/MongoDB
+* Creating websites/apps using best standard <strong>HTML5</strong>/<strong>CSS3</strong>
+* Experience in <strong>JavaScript</strong> and <strong>Node.js</strong>
+* Building apps in <strong>jQuery</strong>, <strong>Sass</strong>, <strong>BEM</strong>, <strong>Node</strong>/<strong>Express</strong>/<strong>MongoDB</strong>
 * Writing efficient code and communicate with APIs
 
 ### Technology Stacks 
 
-* Language: JavaScript 
-* DBMS: MongoDB, MySQL 
+* Language: <strong>JavaScript</strong> 
+* DBMS: <strong>MongoDB</strong>, <strong>MySQL</strong> 
 
 <br>
 
