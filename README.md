@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov"/>
 
 ## About
-Hi there, I am Atanas Vihrogonov, a self-taught Front-End Developer based in the United Kingdom. 
+Hi, I am Atanas Vihrogonov, a self-taught Front-End Developer based in the United Kingdom. 
 My journey began about a year ago, drawing inspiration from my wife, who was already starting her first job as a software engineer at the time.
 I starting to implement web designs through coding languages like <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> and for the time being, I found that life-long learning is a fascinating process.
 
