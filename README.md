@@ -8,7 +8,7 @@ I starting to implement web designs through coding languages like <strong>HTML</
 ### Quick highlighs
 
 * Creating websites/apps using best standard <strong>HTML5</strong>/<strong>CSS3</strong>
-* Experience in <strong>JavaScript</strong> and <strong>Node.js</strong>
+* Experience in <strong>JavaScript</strong>, <strong>React</strong>, <strong>Node.js</strong>
 * Building apps in <strong>jQuery</strong>, <strong>Sass</strong>, <strong>BEM</strong>, <strong>Node</strong>/<strong>Express</strong>/<strong>MongoDB</strong>
 * Writing efficient code and communicate with APIs
 
