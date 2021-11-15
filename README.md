@@ -2,21 +2,20 @@
 
 ## About
 Hi, I am Atanas Vihrogonov, a self-taught Junior Developer based in the United Kingdom. 
-My journey began about a year ago, drawing inspiration from my wife, who was already starting her first job as a software engineer at the time.
-I starting to implement web designs through coding languages like <strong>HTML</strong>, <strong>CSS</strong>, <strong>JavaScript</strong> and for the time being, I found that life-long learning is a fascinating process.
 
-### Quick highlighs
-
-* Creating websites/apps using best standard <strong>HTML5</strong>/<strong>CSS3</strong>
-* Experience in <strong>JavaScript</strong>, <strong>React</strong>, <strong>Node.js</strong>
-* Building apps in <strong>jQuery</strong>, <strong>Sass</strong>, <strong>BEM</strong>, <strong>Node</strong>/<strong>Express</strong>/<strong>MongoDB</strong>
-* Writing efficient code and communicate with APIs
-
-### Technology Stacks 
-
-* Language: <strong>JavaScript</strong> 
-* DBMS: <strong>MongoDB</strong>, <strong>MySQL</strong> 
-
+### Skills
+  <strong>Web Tecnologies:</strong> HTML, CSS, JavaScript, NodeJS, ReactJS, GraphQL, REST API.
+  
+  <strong>Frameworks:</strong> Gatsby, NextJS, Express, Redux, Styled Components, Sass.
+  
+  <strong>Database:</strong> MongoDB, MySQL, Firebase.
+  
+  <strong>Versioning and other tools:</strong> Git, GitHub, NPM, Yarn.
+  
+  <strong>Deployment Tools:</strong> Netlify, Vercel, Heroku, Digital Ocean.
+  
+  <strong>Linting:</strong> VSCode, ESLint, Prettier setup.
+  
 <br>
 
 <a href="https://github.com/AtanasVihrogonov">
