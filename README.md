@@ -1,7 +1,7 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov"/>
 
 ## About
-Hi, I am Atanas Vihrogonov, a self-taught Junior Developer based in the United Kingdom. 
+Hi 👋, I am Atanas Vihrogonov, a self-taught Junior Developer based in the United Kingdom. 
 
 ### Skills
   <strong>Web Tecnologies:</strong> HTML, CSS, JavaScript, NodeJS, ReactJS, GraphQL, REST API.
