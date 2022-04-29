@@ -4,9 +4,9 @@
 Hi 👋, I am Atanas Vihrogonov a junior web developer based in the United Kingdom. 
 
 ### Skills
-  <strong>Web Tecnologies:</strong> HTML, CSS, JavaScript, NodeJS, ReactJS, GraphQL, REST API.
+  <strong>Web Tecnologies:</strong> HTML, CSS, JavaScript, ReactJS, GraphQL, NodeJS, REST API.
   
-  <strong>Frameworks:</strong> Gatsby, NextJS, Express, Redux, Styled Components, Sass.
+  <strong>Frameworks:</strong> Gatsby, NextJS, Express, Redux, Material UI, Styled Components, Sass.
   
   <strong>Database:</strong> MongoDB, MySQL, Firebase.
   
