@@ -1,8 +1,6 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov" />
 
-
 <p align="center">
-  
   <a href="https://github.com/AtanasVihrogonov">
     <img src="https://img.shields.io/github/followers/AtanasVihrogonov?label=Followers&logo=GitHub&style=for-the-badge" alt="GitHub badge" />
   </a>
@@ -35,12 +33,8 @@ Hi 👋, I am Atanas Vihrogonov a front-end developer, my main focus is React + 
   
 <br>
 <p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AtanasVihrogonov&layout=compact&&theme=tokyonight" /> 
-</p>
-<p align="center">
    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=atanasvihrogonov&show_icons=true&theme=tokyonight" />
    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=atanasvihrogonov&theme=tokyonight" />
-   
  </p>
 
 
