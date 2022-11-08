@@ -1,10 +1,10 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov"/>
 
 ## About
-Hi 👋, I am Atanas Vihrogonov a junior web developer based in the United Kingdom. 
+Hi 👋, I am Atanas Vihrogonov a frontend developer based in the United Kingdom. 
 
 ### Skills
-  <strong>Web Tecnologies:</strong> HTML, CSS, JavaScript, ReactJS, GraphQL, NodeJS, REST API.
+  <strong>Web Tecnologies:</strong> HTML, CSS, JavaScript, TypeScript, ReactJS, GraphQL, NodeJS, REST API.
   
   <strong>Frameworks:</strong> Gatsby, NextJS, Express, Redux, Material UI, Styled Components, Sass.
   
