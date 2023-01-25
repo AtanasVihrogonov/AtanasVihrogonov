@@ -36,10 +36,10 @@ Hi 👋, I am Atanas Vihrogonov a front-end developer, my main focus is React + 
   <strong>Linting:</strong> VSCode, ESLint, Prettier setup.
   
 <br>
-<p align="center">
-   <img width="auto" src="https://github-readme-stats.vercel.app/api?username=atanasvihrogonov&show_icons=true&theme=tokyonight" />
-   <img width="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=atanasvihrogonov&theme=tokyonight" />
- </p>
+<span align="center">
+   <img width="48%" height="180px" src="https://github-readme-stats.vercel.app/api?username=atanasvihrogonov&show_icons=true&theme=tokyonight" />
+   <img width="48%" height="180px" src="https://github-readme-streak-stats.herokuapp.com/?user=atanasvihrogonov&theme=tokyonight" />
+ </span>
 
 
 
