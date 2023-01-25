@@ -1,32 +1,25 @@
-<img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov" />
 
-<p align="center">
-  <a href="https://github.com/AtanasVihrogonov">
-    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=GITHUB&logo=github&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Fgithub.com%2FAtanasVihrogonov" />
+<p><img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov" /></p>
+ 
+### About <p align="right">
+  Hi 👋, I am Atanas Vihrogonov a front-end developer, my main focus is React + Typescript.
+  
+  <a href="https://www.linkedin.com/in/atanasvihrogonov">
+    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=Linkedin&logo=linkedin&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fatanasvihrogonov%2F" />
   </a>
   
   <a href="https://twitter.com/TheAV_001">
-    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=TWITTER&logo=twitter&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Ftwitter.com%2FTheAV_001" />
-  </a>
-  
-  <a href="https://www.linkedin.com/in/atanasvihrogonov">
-    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=LINKEDIN&logo=linkedin&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fatanasvihrogonov%2F" />
+    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=Twitter&logo=twitter&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Ftwitter.com%2FTheAV_001" />
   </a>
   
   <a href="https://avihrogonov.co.uk">
-    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=PORTFOLIO&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Fgithub.com%2FAtanasVihrogonov" />
+    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=Portfolio&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Fgithub.com%2FAtanasVihrogonov" />
   </a>
 </p>
-
-### About
-Hi 👋, I am Atanas Vihrogonov a front-end developer, my main focus is React + Typescript.
 
 ### Skills
 <p>
   <strong>Web Tecnologies:</strong>
-<!--   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-000000?style=flat&logo=html5&logoColor=ffffff" />
-  <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-00ffff?style=flat&logo=css3&logoColor=white" />
-  <img alt="Sass" src="https://img.shields.io/badge/-Sass-CC6699?style=flat&logo=sass&logoColor=white" /> -->
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logo=javascript&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" /> 
   <img alt="Babel" src="https://img.shields.io/badge/-Babel-8DD6F9?style=flat&logo=babel&logoColor=white" /> 
