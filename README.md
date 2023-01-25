@@ -74,9 +74,9 @@ Hi 👋, I am Atanas Vihrogonov a front-end developer, my main focus is React + 
 
 <p>
   <strong>Linting:</strong>
-  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-F9A03C?style=flat&logo=visualstudiocode&logoColor=white" />
-  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-F9A03C?style=flat&logo=eslint&logoColor=white" />
-  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-F9A03C?style=flat&logo=prettier&logoColor=white" />
+  <img alt="VSCode" src="https://img.shields.io/badge/-VSCode-3fa7ec?style=flat&logo=visualstudiocode&logoColor=white" />
+  <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-7c7cec?style=flat&logo=eslint&logoColor=white" />
+  <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-1a2b34?style=flat&logo=prettier&logoColor=white" />
 </p>
 
 <br />
