@@ -22,9 +22,9 @@
   <strong>Web Tecnologies:</strong>
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-f0db4f?style=flat&logo=javascript&logoColor=white" />
   <img alt="Webpack" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white" /> 
-  <img alt="Babel" src="https://img.shields.io/badge/-Babel-8DD6F9?style=flat&logo=babel&logoColor=white" /> 
-  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-db7092?style=flat&logo=styled-components&logoColor=white" />
-  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-db7092?style=flat&logo=storybook&logoColor=white" />
+  <img alt="Babel" src="https://img.shields.io/badge/-Babel-ecd75b?style=flat&logo=babel&logoColor=white" /> 
+  <img alt="Styled Components" src="https://img.shields.io/badge/-Styled_Components-3b3b3b?style=flat&logo=styled-components&logoColor=white" />
+  <img alt="Storybook" src="https://img.shields.io/badge/-Storybook-f74481?style=flat&logo=storybook&logoColor=white" />
 </p>
  
 <p>
@@ -45,15 +45,14 @@
 
 <p>
   <strong>Testing:</strong>
-  <img alt="Jest" src="https://img.shields.io/badge/-Jest-311C87?style=flat&logo=jest&logoColor=white" />
-  <img alt="ReactTestingLibrary" src="https://img.shields.io/badge/-React Testing Library-311C87?style=flat&logo=testinglibrary&logoColor=white" />
-  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-311C87?style=flat&logo=cypress&logoColor=white" />
+  <img alt="Jest" src="https://img.shields.io/badge/-Jest-98425b?style=flat&logo=jest&logoColor=white" />
+  <img alt="ReactTestingLibrary" src="https://img.shields.io/badge/-Testing Library-e33332?style=flat&logo=testinglibrary&logoColor=white" />
+  <img alt="Cypress" src="https://img.shields.io/badge/-Cypress-5c5c5e?style=flat&logo=cypress&logoColor=white" />
 </p>
 
 <p>
   <strong>Versioning and other tools:</strong>
   <img alt="Git" src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-333333?style=flat&logo=github-actions&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2b8ab6?style=flat&logo=yarn&logoColor=white" /> 
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
 </p>
