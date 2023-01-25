@@ -37,8 +37,8 @@ Hi 👋, I am Atanas Vihrogonov a front-end developer, my main focus is React + 
   
 <br>
 <p align="center">
-   <img width="48%" height="130px" src="https://github-readme-stats.vercel.app/api?username=atanasvihrogonov&show_icons=true&theme=tokyonight" />
-   <img width="48%" height="130px" src="https://github-readme-streak-stats.herokuapp.com/?user=atanasvihrogonov&theme=tokyonight" />
+   <img width="48%" height="140px" src="https://github-readme-stats.vercel.app/api?username=atanasvihrogonov&show_icons=true&theme=tokyonight" />
+   <img width="48%" height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=atanasvihrogonov&theme=tokyonight" />
  </p>
 
 
