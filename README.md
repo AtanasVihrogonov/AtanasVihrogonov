@@ -59,15 +59,15 @@ Hi 👋, I am Atanas Vihrogonov a front-end developer, my main focus is React + 
 
 <p>
   <strong>Versioning and other tools:</strong>
-  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=white" />
+  <img alt="Github Actions" src="https://img.shields.io/badge/-Github_Actions-333333?style=flat&logo=github-actions&logoColor=white" />
   <img alt="Yarn" src="https://img.shields.io/badge/-Yarn-2b8ab6?style=flat&logo=yarn&logoColor=white" /> 
   <img alt="NPM" src="https://img.shields.io/badge/-NPM-CB3837?style=flat&logo=npm&logoColor=white" />
 </p>
   
 <p
   <strong>Deployment Tools:</strong>
-  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-FB542B?style=flat&logo=vercel&logoColor=white" />
+  <img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat&logo=vercel&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white" />
   <img alt="Netlify" src="https://img.shields.io/badge/-Netlify-0e1e25?style=flat&logo=netlify&logoColor=39acbc" /> 
 </p>
