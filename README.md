@@ -2,19 +2,19 @@
 
 <p align="center">
   <a href="https://github.com/AtanasVihrogonov">
-    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=GITHUB&logo=github&logoColor=4F8FFB&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FAtanasVihrogonov" />
+    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=GITHUB&logo=github&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Fgithub.com%2FAtanasVihrogonov" />
   </a>
   
   <a href="https://twitter.com/TheAV_001">
-    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=TWITTER&logo=twitter&logoColor=4F8FFB&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FTheAV_001" />
+    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=TWITTER&logo=twitter&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Ftwitter.com%2FTheAV_001" />
   </a>
   
   <a href="https://www.linkedin.com/in/atanasvihrogonov">
-    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=LINKEDIN&logo=linkedin&logoColor=4F8FFB&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fatanasvihrogonov%2F" />
+    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=LINKEDIN&logo=linkedin&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fatanasvihrogonov%2F" />
   </a>
   
   <a href="https://avihrogonov.co.uk">
-    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=PORTFOLIO&logoColor=4F8FFB&style=for-the-badge&url=https%3A%2F%2Fgithub.com%2FAtanasVihrogonov" />
+    <img src="https://img.shields.io/twitter/url?color=4F8FFB&label=PORTFOLIO&logoColor=4F8FFB&style=flat&url=https%3A%2F%2Fgithub.com%2FAtanasVihrogonov" />
   </a>
 </p>
 
