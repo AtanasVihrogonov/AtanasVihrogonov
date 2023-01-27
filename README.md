@@ -1,5 +1,5 @@
 <div align="center">
-<div align="center">
+
   
 <!--   ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient) -->
   
@@ -24,7 +24,7 @@
 </p>
 </div>
 
-<div>
+
   
 ## Skills
 
@@ -88,7 +88,7 @@
 </div>
 
 <details close="true">
-  <summary><h3>:gear: &nbsp;My Git Statistics</h3></summary>
+  <summary><h3>:gear: &nbsp;Git Statistics</h3></summary>
   
   <br />
   
