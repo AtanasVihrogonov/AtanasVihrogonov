@@ -82,7 +82,7 @@
 <details close="true">
   <summary><h3>:gear: &nbsp;Git Statistics</h3></summary>
   
-  ![](./profile-3d-contrib/profile-night-rainbow.svg)
+  ![](./profile-3d-contrib/profile-night-view.svg)
  
   <div align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=atanasvihrogonov&show_icons=true&theme=tokyonight" />
