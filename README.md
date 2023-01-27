@@ -3,7 +3,7 @@
   
 <!--   ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient) -->
   
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=1000&color=70A4FC&background=1A1C2600&center=true&vCenter=true&width=700&height=70&lines=Atanas+Vihrogonov;a+Front-End+Developer;React+Developer)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=32&pause=1000&color=70A4FC&background=1A1C2600&center=true&vCenter=true&width=700&height=70&lines=Atanas+Vihrogonov;a+Front-End+Developer;React+Developer)](https://git.io/typing-svg)
 
   <p><img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov" /></p>
 
