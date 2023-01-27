@@ -1,7 +1,7 @@
 <div align="center">
 <div align="center">
   
-  ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient)
+<!--   ![waving](https://capsule-render.vercel.app/api?type=waving&height=90&color=gradient) -->
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=36&pause=1000&color=70A4FC&background=1A1C2600&center=true&vCenter=true&width=700&height=70&lines=Atanas+Vihrogonov;a+Front-End+Developer;React+Developer)](https://git.io/typing-svg)
 
@@ -82,9 +82,9 @@
   </p>
   
  </div>
-<div align="center">
+<!-- <div align="center">
   <img width=85% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
-</div>
+</div> -->
 </div>
 
 <details close="true">
