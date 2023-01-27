@@ -2,7 +2,7 @@
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=32&pause=1000&color=70A4FC&background=1A1C2600&center=true&vCenter=true&width=700&height=70&lines=Atanas+Vihrogonov;a+Front-End+Developer;React+Developer)](https://git.io/typing-svg)
 
-  <p><img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov" /></p>
+ <p><img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov" /></p>
 
 ## About <p align="right">
   Hi 👋, I am Atanas Vihrogonov a front-end developer, my main focus is React + Typescript.
@@ -75,9 +75,6 @@
     <img alt="ESLint" src="https://img.shields.io/badge/-ESLint-1a1c26?style=flat&logo=eslint&logoColor=70a4fc" />
     <img alt="Prettier" src="https://img.shields.io/badge/-Prettier-1a1c26?style=flat&logo=prettier&logoColor=70a4fc" />
   </p>
-  
- </div>
-</div>
 
 <details close="true">
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>
