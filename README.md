@@ -82,10 +82,12 @@
 <details close="true">
   <summary><b>:gear: &nbsp;Git Statistics</b></summary>
   
-  ![](./profile-3d-contrib/profile-night-view.svg)
+  <br />
+  
+  ![](./profile-3d-contrib/profile-night-view.svg) 
  
   <div align="center">
-    <img height="150px" src="https://github-readme-stats.vercel.app/api?username=atanasvihrogonov&show_icons=true&theme=tokyonight" />
-    <img height="150px" src="https://github-readme-streak-stats.herokuapp.com/?user=atanasvihrogonov&theme=tokyonight" />
+    <img height="170px" src="https://github-readme-stats.vercel.app/api?username=atanasvihrogonov&show_icons=true&theme=tokyonight" />
+    <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=atanasvihrogonov&theme=tokyonight" />
   </div>
  </details
