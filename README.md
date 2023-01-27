@@ -80,7 +80,7 @@
 </div>
 
 <details close="true">
-  <summary><h3>:gear: &nbsp;Git Statistics</h3></summary>
+  <summary><b>:gear: &nbsp;Git Statistics</b></summary>
   
   ![](./profile-3d-contrib/profile-night-view.svg)
  
