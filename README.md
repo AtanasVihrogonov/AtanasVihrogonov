@@ -77,15 +77,12 @@
   </p>
   
  </div>
-<!-- <div align="center">
-  <img width=85% src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer"/>
-</div> -->
 </div>
 
 <details close="true">
   <summary><h3>:gear: &nbsp;Git Statistics</h3></summary>
   
-  ![](./profile-3d-contrib/profile-night-green.svg)
+  ![](./profile-3d-contrib/profile-night-view.svg)
  
   <div align="center">
     <img height="150px" src="https://github-readme-stats.vercel.app/api?username=atanasvihrogonov&show_icons=true&theme=tokyonight" />
