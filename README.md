@@ -1,10 +1,8 @@
 <div align="center">
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=400&size=32&pause=1000&color=70A4FC&background=1A1C2600&center=true&vCenter=true&width=700&height=70&lines=Atanas+Vihrogonov;a+Front-End+Developer;React+Developer)](https://git.io/typing-svg)
-
- <p><img src="https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov" /></p>
   
-  ![](https://komarev.com/ghpvc/?username=AtanasVihrogonov&color=70a4fc)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=AtanasVihrogonov&right_color=CornflowerBlue)
 
 ## About <p align="right">
   Hi 👋, I am Atanas Vihrogonov a front-end developer, my main focus is React + Typescript.
